@@ -1,0 +1,25 @@
+Three jupyter notebooks are submitted,one for Normal algorithms,one for reinforcement learning and other for relational learning.
+These are:
+1)MLDM_Coursework_Heart Disease and Stroke Prediction
+2)Cartpole problem(Reinforcement Learning)
+
+
+The first notebook mentioned above has 5 algorithms(Perceptron,Naive bayes,KNN,SVC,Decision Tree)
+The second notebook mentiones the reinforcement learning algorithm
+
+
+The requirement libraries used in the code are 
+1. Numpy 
+2. Pandas 
+3. Matplotlib 
+4. Seaborn 
+5. Plotly 
+6. Seaborne 
+7. Gym 
+8. Random
+9. Collections
+10.Pickle
+
+
+
+
